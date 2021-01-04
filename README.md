@@ -19,9 +19,9 @@
 
 <p align="left">
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-7a92241a3" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-ferreira-7a92241a3" /></a>
   
-  <a href="#" alt="Outlook">
+  <a href="araujogabriel80@hotmail.com" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=https://araujogabriel80@hotmail.com" /></a>
 </p>  
