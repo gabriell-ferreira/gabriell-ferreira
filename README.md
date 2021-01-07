@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3 and JavaScript.</strong>
+  :rocket: Skills: <strong>HTML5, CSS3 and JavaScript.</strong>
 </p>
 
 <p align="left">
