@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://ik.imagekit.io/xc7bzbnt53/undraw_programming_2svr_t6mrq6pCXh.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   My name is Gabriel, I am <strong>Front-End Developer</strong>.<br>
