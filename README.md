@@ -1,6 +1,6 @@
 ## Olá! Me chamo Gabriel
- <div>
-  <a href="https://github.com/gabriell-ferreira">
+<div>
+  <a href="https://github.com/gabriell-ferreira"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriell-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-ferreira&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
