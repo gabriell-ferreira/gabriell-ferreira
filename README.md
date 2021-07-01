@@ -12,7 +12,6 @@
   I am a Computer Science student.
 </p>
 
-
 <p align="left">
   Portfolio: https://gabriell-ferreira.github.io/portifolio/
 </p>
