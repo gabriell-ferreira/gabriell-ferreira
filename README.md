@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Portfolio: https://gabriell-ferreira.github.io/portifolio/
+  Portfolio: https://gabriel-araujo-portfolio.vercel.app/
 </p>
 
 <p align="left">
