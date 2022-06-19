@@ -1,51 +1,36 @@
-## Olá! Me chamo Gabriel
-<div>
-  <a href="https://github.com/gabriell-ferreira"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriell-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-ferreira&layout=compact&langs_count=16&theme=tokyonight"/>
+<h2 align="left">Gabriel Araújo Ferreira</h2>
+
+###
+
+<p align="left">Software Developer<br><br>Actually i'm working as a Software Developer Intern on @SIDIA.<br><br>Welcome to my profile, here I share my personal projects with what I'm studying.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
-<img src="https://ik.imagekit.io/xc7bzbnt53/undraw_programming_2svr_t6mrq6pCXh.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+###
 
-<p align="left"> 
-  My name is Gabriel, I am <strong>Front-End Developer</strong>.<br>
-  I am a Computer Science student.
-</p>
+<br clear="both">
 
-<p align="left">
-  Portfolio: https://gabriel-araujo-portfolio.vercel.app/
-</p>
-
-<p align="left">
-  :rocket: Skills: <strong>HTML5, CSS3 and JavaScript.</strong>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>VS Code, Figma, Git and GitHub</strong>
-</p>
-
-<p align="left">
-  💌 If you want to get in touch, send a message. ⤵️
-</p>
-
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-7a92241a3" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-ferreira-7a92241a3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <!-- <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif"  />
 </div>
-  
-  ##
- 
 
-
-
-
+###
