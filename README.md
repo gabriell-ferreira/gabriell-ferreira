@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Software Developer<br><br>I am currently working as a Software Development Intern at @SIDIA.<br><br>Welcome to my profile, here I share my personal projects with what I'm studying.</p>
+<p align="left">Software Developer<br><br>I am currently working as a Junior Software Development at @SIDIA.<br><br>Welcome to my profile, here I share my personal projects with what I'm studying.</p>
 
 ###
 
